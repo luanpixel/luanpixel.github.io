@@ -1,2 +1,2 @@
-#https://luanpixel.github.io
+# http://luanpixel.github.io
 Site Pessoal
